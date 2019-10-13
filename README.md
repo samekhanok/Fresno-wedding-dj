@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Tips for Choosing Your Wedding DJ
 
-You can use the [editor on GitHub](https://github.com/samekhanok/Fresno-wedding-dj/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the  There is no denying it: marriage is one of the great moments in anyone's life. It is a unique event in our lives, so everything should go as smoothly as possible. For this reason, the time taken to organize a wedding is usually at least one year.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the perfect time to visit the various service providers such as: ceremonialists, florists, caterers, ballrooms, dress and costume shops, and of course visiting and choosing the place where the religious ceremony will be held. - and look that the dispute is increasing, so a year in advance, depending on the place, is still risky.
 
-### Markdown
+But among the many choices we have to keep in mind during the preparations, the  [wedding DJ](https://musicexpressca.com/) service is one that we have to be careful of the world, after all it will be responsible for leading the party's direction, setting the pace of joy on the dance floor. .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So, among many tips we can give you to choose the DJ, some are super important, such as:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+# 1 - Know previous works
 
-**Bold** and _Italic_ and `Code` text
+Before deciding on the pro, it is critical that you have access to the parties he has already conducted as a DJ. Perhaps entering the parties is not possible, but it is very common to have recordings of the DJ's performance and party animation.
 
-[Link](url) and ![Image](src)
-```
+This you can find with friends, acquaintances or even other professionals you have already hired for your wedding - the ceremonialist, for example, is often very well-connected among wedding professionals, so he can help you. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+It's worth watching too when you go to events during this wedding preparation period. Perhaps, in one of those chances of life, you find the perfect DJ for your wedding.
 
-### Jekyll Themes
+# 2 - Ask friends for recommendation
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samekhanok/Fresno-wedding-dj/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If the couple managed to find a DJ they like, the second step is to seek the opinion of other couples who had the DJ responsible for the party songs.
+
+The DJ himself can pass the contact so that you can hear the opinion. This is very important because there is no more efficient marketing to sell a service than the opinion of a satisfied consumer.
+
+# 3 - Make preparation meetings
+
+When closing the contract with the DJ, set aside time for at least two meetings. Deciding in advance the repertoire that will be played during the party ensures that nothing that is not pleasing to the couple, or that has nothing to do with the profile of the guests, is performed. Avoid those empty track moments and ensure a lot of animation with a powerful set-list!
+
+# 4 - Be sure to talk to him during the party
+
+Even if there are previous meetings, unforeseen events can happen during the party. So be sure to talk to the DJ so things don't go out of their way.
+
+Also, depending on the guests' excitement, some song suggestions are starting to appear, and nothing better than playing what the guests want so much - as long as it's the couple's consent, after all, they're the big stars of the day.
+
+# One the THE Best [FRESNO WEDDING DJ](https://musicexpressca.com/) 
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble [contact support](https://musicexpressca.com/) and we’ll help you sort it out.
